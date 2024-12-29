@@ -1,0 +1,41 @@
+.catalog {
+
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product {
+    float: left;
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double orange;
+    margin: 40px 0px 40px 80px;
+    background-color: bisque;
+}
+nav{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: blue;
+}
+nav a{
+    text-decoration: none;
+    color: yellow;
+    padding: 20px;
+    margin: 12px;
+}
+h1{
+    text-align: center;
+    
+}
+footer p{
+    text-align: center;
+    margin: 15px;
+    padding: 15px;
+}
+footer{
+    background-color: blue;
+}
